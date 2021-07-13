@@ -1,4 +1,4 @@
 # world-test
 gogo
-new go
+neew go
 fuck
